@@ -12,10 +12,10 @@
     "revision": "kk4.4"
   },
   {
-    "remote": "slim",
+    "remote": "berserk",
     "repository": "kernel_motorola_msm8960-common",
     "target_path": "kernel/motorola/msm8960-common",
-    "revision": "kk4.4"
+    "revision": "berserk"
   },
   { "remote": "berserk",
     "repository": "device_motorola_msm8960-common",
