@@ -6,10 +6,10 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "slim",
+    "remote": "berserk",
     "repository": "device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "kk4.4"
+    "revision": "berserk"
   },
   {
     "remote": "berserk",
