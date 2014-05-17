@@ -1,26 +1,26 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "remote": "slim",
+    "repository": "device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-11.0"
+    "revision": "kk4.4"
   },
   {
-    "remote": "berserk",
+    "remote": "slim",
     "repository": "device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "berserk"
+    "revision": "kk4.4"
   },
   {
-    "remote": "berserk",
+    "remote": "slim",
     "repository": "kernel_motorola_msm8960-common",
     "target_path": "kernel/motorola/msm8960-common",
-    "revision": "berserk"
+    "revision": "kk4.4"
   },
-  { "remote": "berserk",
+  { "remote": "slim",
     "repository": "device_motorola_msm8960-common",
     "target_path": "device/motorola/msm8960-common",
-    "revision": "berserk"
+    "revision": "kk4.4"
   },
   {
     "remote": "tm",
