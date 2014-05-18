@@ -1,9 +1,9 @@
 [
   {
-    "remote": "slim",
-    "repository": "device_qcom_common",
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "kk4.4"
+    "revision": "cm-11.0"
   },
   {
     "remote": "slim",
@@ -17,10 +17,10 @@
     "target_path": "kernel/motorola/msm8960-common",
     "revision": "kk4.4"
   },
-  { "remote": "slim",
+  { "remote": "berserk",
     "repository": "device_motorola_msm8960-common",
     "target_path": "device/motorola/msm8960-common",
-    "revision": "kk4.4"
+    "revision": "berserk"
   },
   {
     "remote": "tm",
